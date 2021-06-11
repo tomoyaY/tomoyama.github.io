@@ -16,14 +16,14 @@
 - 2019.12: [メディアサービスの基盤としてのナレッジベースの活用と生成方法について](https://www.slideshare.net/techblogyahoo/yjtc19-in-shibuya-a3-yjtc-204745833) @ YJTC2019
 
 ## 主要な執筆論文
-- 2019.08 [A Scalable and Plug-in Based System to Construct A Production-Level Knowledge Base](https://www.semanticscholar.org/paper/A-Scalable-and-Plug-in-Based-System-to-Construct-A-Yamazaki-Nishi/1a2eb73aa65ffd5fe5ed1dc9eb5419f7b1353da8) @ KDD Workshop DI2KG 2019
-- 2016.04 [Weighted Micro-Clustering: Application to Community Detection in Large-Scale Co-Purchasing Networks with User Attributes](https://dl.acm.org/doi/10.1145/2872518.2889406) @ WWW short 2016
-- [Tree PCA for Extracting Dominant Substructures from Labeled Rooted Trees](https://link.springer.com/chapter/10.1007/978-3-319-24282-8_27) @ DS 2015
+- 2019.08: [A Scalable and Plug-in Based System to Construct A Production-Level Knowledge Base](https://www.semanticscholar.org/paper/A-Scalable-and-Plug-in-Based-System-to-Construct-A-Yamazaki-Nishi/1a2eb73aa65ffd5fe5ed1dc9eb5419f7b1353da8) @ KDD Workshop DI2KG 2019
+- 2016.04: [Weighted Micro-Clustering: Application to Community Detection in Large-Scale Co-Purchasing Networks with User Attributes](https://dl.acm.org/doi/10.1145/2872518.2889406) @ WWW short 2016
+- 2015.10: [Tree PCA for Extracting Dominant Substructures from Labeled Rooted Trees](https://link.springer.com/chapter/10.1007/978-3-319-24282-8_27) @ DS 2015
 - その他の国内の学会等の発表論文: [CiNii](https://ci.nii.ac.jp/search?q=%E5%B1%B1%E5%B4%8E%E6%9C%8B%E5%93%89&range=0&count=&sortorder=&type=0)
 
 ## その他の活動
-- 2017.12 [WSDM Cup 2017 提案手法のテックレポートの執筆](https://arxiv.org/abs/1712.06921)
-- 2017.05 [JSAI Cup 2017](https://www.ai-gakkai.or.jp/jsai2017/jsai-cup_report/)入賞 :tada:
+- 2017.12: [WSDM Cup 2017 提案手法のテックレポートの執筆](https://arxiv.org/abs/1712.06921)
+- 2017.05: [JSAI Cup 2017](https://www.ai-gakkai.or.jp/jsai2017/jsai-cup_report/)入賞 :tada:
 
 ## 特許
 <details>
