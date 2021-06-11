@@ -11,7 +11,7 @@
 - 2020 - : [ZOZO研究所](https://research.zozo.com/)の検索チームリーダー
 
 ## 主要な公開ドキュメント
-- 2021.06: [ZOZO研究所が実施する「検索/推薦技術に関する論文読み会](https://techblog.zozo.com/entry/search-recommend-articles-study-session) @ ZOZO Tech テックブログ
+- 2021.06: [ZOZO研究所が実施する「検索/推薦技術に関する論文読み会」](https://techblog.zozo.com/entry/search-recommend-articles-study-session) @ ZOZO Tech テックブログ
 - 2021.02: [ユーザーログを活用したZOZOTOWNの検索サジェスト改善](https://techblog.zozo.com/entry/zozotown-search-suggestion) @ ZOZO Tech テックブログ
 - 2019.12: [メディアサービスの基盤としてのナレッジベースの活用と生成方法について](https://www.slideshare.net/techblogyahoo/yjtc19-in-shibuya-a3-yjtc-204745833) @ YJTC2019
 
@@ -23,7 +23,7 @@
 
 ## その他の活動
 - 2017.12: [WSDM Cup 2017 提案手法のテックレポートの執筆](https://arxiv.org/abs/1712.06921)
-- 2017.05: [JSAI Cup 2017](https://www.ai-gakkai.or.jp/jsai2017/jsai-cup_report/)入賞 :tada:
+- 2017.05: [JSAI Cup 2017](https://www.ai-gakkai.or.jp/jsai2017/jsai-cup_report/)入賞
 
 ## 特許
 <details>
