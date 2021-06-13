@@ -38,7 +38,7 @@
   </div>
 </details>
 <details>
-  <summary>特許申請済み (主担当/7件) </summary>
+  <summary>特許出願済み (主担当/7件) </summary>
   <div>
 
 - 出願日: 2019/05/23 特願2019-096910
@@ -58,7 +58,7 @@
   </div>
 </details>
 <details>
-  <summary>特許申請済み (副担当/10件) </summary>
+  <summary>特許出願済み (副担当/10件) </summary>
   <div>
    
 - 出願日: 2019/07/19 特願2019-133764
