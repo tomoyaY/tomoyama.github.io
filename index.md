@@ -23,6 +23,7 @@
 - その他の国内の学会等の発表論文: [CiNii](https://ci.nii.ac.jp/search?q=%E5%B1%B1%E5%B4%8E%E6%9C%8B%E5%93%89&range=0&count=&sortorder=&type=0)
 
 ## その他の活動
+- 2021.07: [論文紹介: [SIGIR 2020] Query Reformulation in E-Commerce Search](https://speakerdeck.com/tomoyayama/lun-wen-shao-jie-sigir-2020-query-reformulation-in-e-commerce-search) @ [情報検索/推薦 各社合同 論文読み祭 #1](https://m3-engineer.connpass.com/event/217338/)
 - 2017.12: [WSDM Cup 2017 提案手法のテックレポートの執筆](https://arxiv.org/abs/1712.06921)
 - 2017.05: [JSAI Cup 2017](https://www.ai-gakkai.or.jp/jsai2017/jsai-cup_report/)入賞
 
