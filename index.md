@@ -29,7 +29,7 @@
 
 ## 特許
 <details>
-  <summary>特許 (主担当/3件) </summary>
+  <summary>特許 (主担当/4件) </summary>
   <div>
 
 - 登録日: 2021/07/26 特許第06917972号
@@ -43,7 +43,7 @@
   </div>
 </details>
 <details>
-  <summary>特許出願済み (主担当/6件) </summary>
+  <summary>特許出願済み (主担当/5件) </summary>
   <div>
 
 - 出願日: 2019/03/19 特願2019-051425
