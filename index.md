@@ -1,6 +1,6 @@
 # tomoyama
 ## だれ？
-- 山崎朋哉 (Tomoya Yamazaki)
+- 山﨑朋哉 (Tomoya Yamazaki)
 - 情報検索・ナレッジベース・機械学習・Web系アプリケーションの開発経験あります。
 - mail: tom317oya[a.t.]gmail.com
 
@@ -31,9 +31,12 @@
 <details>
   <summary>特許 (主担当/7件) </summary>
   <div>
-
-- 登録日: 2022/02/18 [特許第7027606号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7027606/5D7FBF473697F9E48BC88043B84F1865554ECB33FF1C91E2B3439A9F4398E1EA/15/ja)
-  - ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、促進する機能について  
+<ul>
+<li>登録日: 2022/02/18 [特許第7027606号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7027606/5D7FBF473697F9E48BC88043B84F1865554ECB33FF1C91E2B3439A9F4398E1EA/15/ja)</li>
+  <ul> 
+    <li>ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、促進する機能について</li>
+  </ul>
+</ul>
 - 登録日: 2021/12/28 [特許第7001380号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-020939/7F06880B55EC307019EEBCC928AF0041C8A6D81096301E548CA3DEC73E907171/11/ja)
   - セッション情報を用いたショッピングCV予測について
 - 登録日: 2021/11/19 [特許第6980578号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6980578/E6773F7A7A31C081E89829FC97606B0FBA4CBF3115081ED50A0F2594791EF181/15/ja)
