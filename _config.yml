@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 markdown: CommonMarkGhPages
+markup:
+    markup.goldmark:
+        markup.goldmark.renderer:
+            unsafe = true
 google_analytics: UA-199336778-1
