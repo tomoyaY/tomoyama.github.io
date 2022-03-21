@@ -88,7 +88,7 @@
 
 </details>
 <details>
-  <summary>特許出願済み (主担当/5件) </summary>
+  <summary>特許出願済み (主担当/4件) </summary>
   <div dir="auto">
 <ul dir="auto">
 <li>出願日: 2021/05/06 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-152905/9355710C8DF6AF5BB0548E16B88CC869B5EC7C1896330CF7F387F2C480A5258A/11/ja" rel="nofollow">特開2021-152905</a>
