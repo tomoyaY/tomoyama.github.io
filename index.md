@@ -65,9 +65,15 @@
 </details>
 
 <details>
-  <summary>特許 (副担当/6件) </summary>
+  <summary>特許 (副担当/7件) </summary>
   <div dir="auto">
     <ul dir="auto">
+      <li>登録日: 2022/05/10 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200738/DA95D850DB7566E582F1B694F2363405C5E4058BFA70BC6A61150B465508D8AE/11/ja" rel="nofollow">特許7071213号</a>
+        <ul dir="auto">
+          <li>グラフのトポロジ構造に着眼した類似性発見手法</li>
+          <li>複数の大規模で複雑に成長をしているグラフの類似構造の把握手法</li>
+        </ul>
+      </li>
       <li>登録日: 2022/04/04 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200743/ACCBCAF2B2D24540AB9DBA75721BC20C42B55A0BF3803D8BE32B414E9F68D480/11/ja" rel="nofollow">特許7054645号</a>
         <ul dir="auto">
           <li>DNNの可塑性に着目したモデルの精度向上の手法</li>
@@ -133,7 +139,7 @@
 </details>
 
 <details>
-  <summary>特許出願済み (副担当/4件) </summary>
+  <summary>特許出願済み (副担当/3件) </summary>
   <div dir="auto">
     <ul dir="auto">
       <li>出願日: 2019/07/19 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-018596/4B3FDCF371F465459C04441E25D753BBE69E0DB79C1C5E036B6D13C51406EB9C/11/ja" rel="nofollow">特開2021-18596</a>
@@ -144,12 +150,6 @@
       <li>出願日: 2019/02/25 16/284383 (US01)
         <ul dir="auto">
           <li>動的ネットワークの成長を考慮したノード評価手法</li>
-        </ul>
-      </li>
-      <li>出願日: 2018/05/18 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200738/DA95D850DB7566E582F1B694F2363405C5E4058BFA70BC6A61150B465508D8AE/11/ja" rel="nofollow">特開2019-200738</a>
-        <ul dir="auto">
-          <li>グラフのトポロジ構造に着眼した類似性発見手法</li>
-          <li>複数の大規模で複雑に成長をしているグラフの類似構造の把握手法</li>
         </ul>
       </li>
       <li>出願日: 2018/05/18 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200742/E92D198DE941D3EB306C088963D6BCE5E9DD8358D9BF00D3F476F93BCEEEFF57/11/ja" rel="nofollow">特開2019-200742</a>
