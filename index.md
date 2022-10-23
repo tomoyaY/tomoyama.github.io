@@ -32,7 +32,7 @@
   <summary>特許 (主担当/7件) </summary>
   <div>
     <ul>
-      <li>登録日: 2022/06/16 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154346/2DD4B4FDFB50C6FF8F7ADCBE98242BDA31AC4A7E42A9580252F9A11617036767/11/ja" rel="nofollow">特許第07090574号</a>
+      <li>登録日: 2022/06/16 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154346/2DD4B4FDFB50C6FF8F7ADCBE98242BDA31AC4A7E42A9580252F9A11617036767/11/ja" rel="nofollow">特許第7090574号</a>
         <ul dir="auto">
           <li>グラフアルゴリズムを用いたエンティティマッチングについて</li>
         </ul>
@@ -73,7 +73,7 @@
   <summary>特許 (副担当/8件) </summary>
   <div dir="auto">
     <ul dir="auto">
-      <li>登録日: 2022/07/28 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200742/E92D198DE941D3EB306C088963D6BCE5E9DD8358D9BF00D3F476F93BCEEEFF57/11/ja" rel="nofollow">特許07113661号</a>
+      <li>登録日: 2022/07/28 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200742/E92D198DE941D3EB306C088963D6BCE5E9DD8358D9BF00D3F476F93BCEEEFF57/11/ja" rel="nofollow">特許7113661号</a>
         <ul dir="auto">
           <li>グラフのフーリエ変換による分解情報生成</li>
           <li>技術ネットワークの分解状態でのグラフ成長予測手法</li>
