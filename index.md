@@ -32,6 +32,11 @@
   <summary>特許 (主担当/7件) </summary>
   <div>
     <ul>
+      <li>登録日: 2022/06/16 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154346/2DD4B4FDFB50C6FF8F7ADCBE98242BDA31AC4A7E42A9580252F9A11617036767/11/ja" rel="nofollow">特許第07090574号</a>
+        <ul dir="auto">
+          <li>グラフアルゴリズムを用いたエンティティマッチングについて</li>
+        </ul>
+      </li>
       <li>登録日: 2022/02/18 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7027606/5D7FBF473697F9E48BC88043B84F1865554ECB33FF1C91E2B3439A9F4398E1EA/15/ja">特許第7027606号</a></li>
         <ul>
           <li>ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、促進する機能について</li>
@@ -65,9 +70,15 @@
 </details>
 
 <details>
-  <summary>特許 (副担当/7件) </summary>
+  <summary>特許 (副担当/8件) </summary>
   <div dir="auto">
     <ul dir="auto">
+      <li>登録日: 2022/07/28 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200742/E92D198DE941D3EB306C088963D6BCE5E9DD8358D9BF00D3F476F93BCEEEFF57/11/ja" rel="nofollow">特許07113661号</a>
+        <ul dir="auto">
+          <li>グラフのフーリエ変換による分解情報生成</li>
+          <li>技術ネットワークの分解状態でのグラフ成長予測手法</li>
+        </ul>
+      </li>
       <li>登録日: 2022/05/10 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200738/DA95D850DB7566E582F1B694F2363405C5E4058BFA70BC6A61150B465508D8AE/11/ja" rel="nofollow">特許7071213号</a>
         <ul dir="auto">
           <li>グラフのトポロジ構造に着眼した類似性発見手法</li>
@@ -111,7 +122,7 @@
 </details>
 
 <details>
-  <summary>特許出願済み (主担当/4件) </summary>
+  <summary>特許出願済み (主担当/3件) </summary>
   <div dir="auto">
     <ul dir="auto">
       <li>出願日: 2021/05/06 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-152905/9355710C8DF6AF5BB0548E16B88CC869B5EC7C1896330CF7F387F2C480A5258A/11/ja" rel="nofollow">特開2021-152905</a>
@@ -124,11 +135,6 @@
           <li>クリックログを用いた二部グラフ構築によるエンティティのクラス推定について</li>
         </ul>
       </li>
-      <li>出願日: 2019/03/18 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154346/2DD4B4FDFB50C6FF8F7ADCBE98242BDA31AC4A7E42A9580252F9A11617036767/11/ja" rel="nofollow">特開2020-154346</a>
-        <ul dir="auto">
-          <li>グラフアルゴリズムを用いたエンティティマッチングについて</li>
-        </ul>
-      </li>
       <li>出願日: 2017/09/14 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-053469/21D2C5B7CBA1DFFA0F77A8309DBA8B7A4F2687E75AFFAF2797C6BD63B287E151/11/ja" rel="nofollow">※特開2019-053469</a>
         <ul dir="auto">
           <li>ナレッジベース生成における、MatcherとリテラルのURI化部分について</li>
@@ -139,7 +145,7 @@
 </details>
 
 <details>
-  <summary>特許出願済み (副担当/3件) </summary>
+  <summary>特許出願済み (副担当/2件) </summary>
   <div dir="auto">
     <ul dir="auto">
       <li>出願日: 2019/07/19 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-018596/4B3FDCF371F465459C04441E25D753BBE69E0DB79C1C5E036B6D13C51406EB9C/11/ja" rel="nofollow">特開2021-18596</a>
@@ -150,12 +156,6 @@
       <li>出願日: 2019/02/25 16/284383 (US01)
         <ul dir="auto">
           <li>動的ネットワークの成長を考慮したノード評価手法</li>
-        </ul>
-      </li>
-      <li>出願日: 2018/05/18 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200742/E92D198DE941D3EB306C088963D6BCE5E9DD8358D9BF00D3F476F93BCEEEFF57/11/ja" rel="nofollow">特開2019-200742</a>
-        <ul dir="auto">
-          <li>グラフのフーリエ変換による分解情報生成</li>
-          <li>技術ネットワークの分解状態でのグラフ成長予測手法</li>
         </ul>
       </li>
     </ul>
