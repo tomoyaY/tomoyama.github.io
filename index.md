@@ -31,7 +31,7 @@
 
 ## 特許
 <details>
-  <summary>特許 (主担当/7件) </summary>
+  <summary>特許 (主担当/8件) </summary>
   <div>
     <ul>
       <li>登録日: 2022/06/16 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154346/2DD4B4FDFB50C6FF8F7ADCBE98242BDA31AC4A7E42A9580252F9A11617036767/11/ja" rel="nofollow">特許第7090574号</a>
