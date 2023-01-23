@@ -5,13 +5,15 @@
 - mail: tom317oya[a.t.]gmail.com
 
 ## 略歴
-- 2010 - 2014: 京都大学工学部情報学科卒業
-- 2014 - 2016: 京都大学大学院情報学研究科修了
-- 2016 - 2019: ヤフー株式会社でナレッジベースの開発と研究
 - 2018 - : [株式会社ゼプトス](https://www.zeptos.jp/)のCEO
-- 2020 - : [ZOZO研究所](https://research.zozo.com/)の検索チームリーダー
+- 2022 - : [株式会社ZOZO](https://corp.zozo.com/)の検索基盤部検索研究ブロック長
+- 2020 - 2022: [ZOZO研究所](https://research.zozo.com/)の検索チームリーダー
+- 2016 - 2019: ヤフー株式会社でナレッジベースの開発と研究
+- 2014 - 2016: 京都大学大学院情報学研究科修了
+- 2010 - 2014: 京都大学工学部情報学科卒業
 
 ## 主要な公開ドキュメント
+- 2023.01: [ZOZOTOWN検索の精度改善の取り組み紹介](https://techblog.zozo.com/entry/search-relevance-improvement) @ ZOZO テックブログ
 - 2021.06: [ZOZO研究所が実施する「検索/推薦技術に関する論文読み会」](https://techblog.zozo.com/entry/search-recommend-articles-study-session) @ ZOZO Tech テックブログ
 - 2021.02: [ユーザーログを活用したZOZOTOWNの検索サジェスト改善](https://techblog.zozo.com/entry/zozotown-search-suggestion) @ ZOZO Tech テックブログ
 - 2019.12: [メディアサービスの基盤としてのナレッジベースの活用と生成方法について](https://www.slideshare.net/techblogyahoo/yjtc19-in-shibuya-a3-yjtc-204745833) @ YJTC2019
