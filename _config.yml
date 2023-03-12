@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
-markdown: CommonMarkGhPages
+title: Tomoya Yamazaki
+description: My self introduction
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 google_analytics: UA-199336778-1
