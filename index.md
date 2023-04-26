@@ -16,7 +16,7 @@
 - 2023.01: [ZOZOTOWN検索の精度改善の取り組み紹介](https://techblog.zozo.com/entry/search-relevance-improvement) @ ZOZO テックブログ
 - 2021.06: [ZOZO研究所が実施する「検索/推薦技術に関する論文読み会」](https://techblog.zozo.com/entry/search-recommend-articles-study-session) @ ZOZO Tech テックブログ
 - 2021.02: [ユーザーログを活用したZOZOTOWNの検索サジェスト改善](https://techblog.zozo.com/entry/zozotown-search-suggestion) @ ZOZO Tech テックブログ
-- 2019.12: [メディアサービスの基盤としてのナレッジベースの活用と生成方法について](https://www.slideshare.net/techblogyahoo/yjtc19-in-shibuya-a3-yjtc-204745833) @ YJTC2019
+- 2019.12: [メディアサービスの基盤としてのナレッジベースの活用と生成方法について](https://www.docswell.com/s/ydnjp/K1M925-2019-12-12-153636#p1) @ YJTC2019
 
 ## 主要な執筆論文
 - 2019.08: [A Scalable and Plug-in Based System to Construct A Production-Level Knowledge Base](https://www.semanticscholar.org/paper/A-Scalable-and-Plug-in-Based-System-to-Construct-A-Yamazaki-Nishi/1a2eb73aa65ffd5fe5ed1dc9eb5419f7b1353da8) @ KDD Workshop DI2KG 2019
