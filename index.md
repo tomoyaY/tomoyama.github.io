@@ -129,9 +129,14 @@
 </details>
 
 <details>
-  <summary>特許出願済み (主担当/2件) </summary>
+  <summary>特許出願済み (主担当/3件) </summary>
   <div dir="auto">
     <ul dir="auto">
+      <li>出願日: 2021/09/27 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-047931/F0BD0DEEAB78D539024A1D7BE5A4B4ABF8615770F979C06558C06EC9B1497A92/11/ja" rel="nofollow"> 特開2023-047931
+        <ul dir="auto">
+          <li>ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、個人情報流出を防ぎつつ、促進する機能について</li>
+        </ul>
+      </li>
       <li>出願日: 2019/03/19 <!-- <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154583/3490AAA1A23D324BD2306BCDC179DB44845CB829C9F6EFFD0C0A804029C4458D/11/ja" rel="nofollow"> -->特開2020-154583<!-- </a> -->
         <ul dir="auto">
           <li>クリックログを用いた二部グラフ構築によるエンティティのクラス推定について</li>
