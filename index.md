@@ -31,9 +31,14 @@
 
 ## 特許
 <details>
-  <summary>特許 (主担当/9件) </summary>
+  <summary>特許 (主担当/10件) </summary>
   <div>
     <ul>
+      <li>登録日: 2023/07/11 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-047931/F0BD0DEEAB78D539024A1D7BE5A4B4ABF8615770F979C06558C06EC9B1497A92/11/ja" rel="nofollow"> 特許第7303855号 </a>
+        <ul dir="auto">
+          <li>ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、個人情報流出を防ぎつつ、促進する機能について</li>
+        </ul>
+      </li>
       <li>登録日: 2023/04/04 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-152905/9355710C8DF6AF5BB0548E16B88CC869B5EC7C1896330CF7F387F2C480A5258A/11/ja" rel="nofollow">特許第7273888号</a>
         <ul dir="auto">
           <li>ナレッジベース生成装置について</li>
@@ -129,20 +134,15 @@
 </details>
 
 <details>
-  <summary>特許出願済み (主担当/3件) </summary>
+  <summary>特許出願済み (主担当/2件) </summary>
   <div dir="auto">
     <ul dir="auto">
-      <li>出願日: 2021/09/27 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-047931/F0BD0DEEAB78D539024A1D7BE5A4B4ABF8615770F979C06558C06EC9B1497A92/11/ja" rel="nofollow"> 特開2023-047931
-        <ul dir="auto">
-          <li>ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、個人情報流出を防ぎつつ、促進する機能について</li>
-        </ul>
-      </li>
       <li>出願日: 2019/03/19 <!-- <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154583/3490AAA1A23D324BD2306BCDC179DB44845CB829C9F6EFFD0C0A804029C4458D/11/ja" rel="nofollow"> -->特開2020-154583<!-- </a> -->
         <ul dir="auto">
           <li>クリックログを用いた二部グラフ構築によるエンティティのクラス推定について</li>
         </ul>
       </li>
-      <li>出願日: 2017/09/14  <!-- <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-053469/21D2C5B7CBA1DFFA0F77A8309DBA8B7A4F2687E75AFFAF2797C6BD63B287E151/11/ja" rel="nofollow"> --> ※特開2019-053469<!-- </a> -->
+      <li>出願日: 2017/09/14  <!-- <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-053469/21D2C5B7CBA1DFFA0F77A8309DBA8B7A4F2687E75AFFAF2797C6BD63B287E151/11/ja" rel="nofollow"> --> 特開2019-053469<!-- </a> -->
         <ul dir="auto">
           <li>ナレッジベース生成における、MatcherとリテラルのURI化部分について</li>
         </ul>
