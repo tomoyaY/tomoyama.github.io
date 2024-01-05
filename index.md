@@ -1,7 +1,7 @@
 # tomoyama
 ## だれ？
 - 山﨑朋哉 (Tomoya Yamazaki)
-- 情報検索・ナレッジベース・機械学習・Web系アプリケーションの開発経験あります。
+- 情報検索・ナレッジベース・機械学習・Web系アプリケーションの開発・マネジメント経験あります。
 - mail: tom317oya[a.t.]gmail.com
 
 ## 略歴
@@ -13,10 +13,11 @@
 - 2010 - 2014: 京都大学工学部情報学科卒業
 
 ## 主要な公開ドキュメント
+- 2023.12: [ZOZOTOWN検索における 研究開発の取り組みについて](https://speakerdeck.com/tomoyayama/2023-ccse-zozotownjian-suo-niokeru-yan-jiu-kai-fa-noqu-rizu-minituite) @ [CCSE2023](https://ccse.jp/2023/)
 - 2023.01: [ZOZOTOWN検索の精度改善の取り組み紹介](https://techblog.zozo.com/entry/search-relevance-improvement) @ ZOZO テックブログ
 - 2021.06: [ZOZO研究所が実施する「検索/推薦技術に関する論文読み会」](https://techblog.zozo.com/entry/search-recommend-articles-study-session) @ ZOZO Tech テックブログ
 - 2021.02: [ユーザーログを活用したZOZOTOWNの検索サジェスト改善](https://techblog.zozo.com/entry/zozotown-search-suggestion) @ ZOZO Tech テックブログ
-- 2019.12: [メディアサービスの基盤としてのナレッジベースの活用と生成方法について](https://www.docswell.com/s/ydnjp/K1M925-2019-12-12-153636#p1) @ YJTC2019
+- 2019.12: [メディアサービスの基盤としてのナレッジベースの活用と生成方法について](https://www.docswell.com/s/ydnjp/K1M925-2019-12-12-153636#p1) @ [YJTC2019](https://techblog.yahoo.co.jp/entry/20191213789272/)
 
 ## 主要な執筆論文
 - 2019.08: [A Scalable and Plug-in Based System to Construct A Production-Level Knowledge Base](https://www.semanticscholar.org/paper/A-Scalable-and-Plug-in-Based-System-to-Construct-A-Yamazaki-Nishi/1a2eb73aa65ffd5fe5ed1dc9eb5419f7b1353da8) @ KDD Workshop DI2KG 2019
@@ -31,9 +32,14 @@
 
 ## 特許
 <details>
-  <summary>特許 (主担当/10件) </summary>
+  <summary>特許 (主担当/11件) </summary>
   <div>
     <ul>
+      <li>登録日: 2023/08/15 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154583/3490AAA1A23D324BD2306BCDC179DB44845CB829C9F6EFFD0C0A804029C4458D/11/ja" rel="nofollow">特許第7351627号</a>
+        <ul dir="auto">
+          <li>label spreading法によるクリックログを用いた二部グラフ構築によるエンティティのクラス推定について</li>
+        </ul>
+      </li>
       <li>登録日: 2023/07/11 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-047931/F0BD0DEEAB78D539024A1D7BE5A4B4ABF8615770F979C06558C06EC9B1497A92/11/ja" rel="nofollow"> 特許第7303855号 </a>
         <ul dir="auto">
           <li>ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、個人情報流出を防ぎつつ、促進する機能について</li>
@@ -82,22 +88,27 @@
 </details>
 
 <details>
-  <summary>特許 (副担当/8件) </summary>
+  <summary>特許 (副担当/9件) </summary>
   <div dir="auto">
     <ul dir="auto">
-      <li>登録日: 2022/07/28 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200742/E92D198DE941D3EB306C088963D6BCE5E9DD8358D9BF00D3F476F93BCEEEFF57/11/ja" rel="nofollow">特許7113661号</a>
+      <li>登録日: 2023/08/29 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-018596/4B3FDCF371F465459C04441E25D753BBE69E0DB79C1C5E036B6D13C51406EB9C/11/ja" rel="nofollow">特許第7350549号</a>
+        <ul dir="auto">
+          <li>導来同値により思考のやわらかさを実現する手法</li>
+        </ul>
+      </li>
+      <li>登録日: 2022/07/28 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200742/E92D198DE941D3EB306C088963D6BCE5E9DD8358D9BF00D3F476F93BCEEEFF57/11/ja" rel="nofollow">特許第7113661号</a>
         <ul dir="auto">
           <li>グラフのフーリエ変換による分解情報生成</li>
           <li>技術ネットワークの分解状態でのグラフ成長予測手法</li>
         </ul>
       </li>
-      <li>登録日: 2022/05/10 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200738/DA95D850DB7566E582F1B694F2363405C5E4058BFA70BC6A61150B465508D8AE/11/ja" rel="nofollow">特許7071213号</a>
+      <li>登録日: 2022/05/10 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200738/DA95D850DB7566E582F1B694F2363405C5E4058BFA70BC6A61150B465508D8AE/11/ja" rel="nofollow">特許第7071213号</a>
         <ul dir="auto">
           <li>グラフのトポロジ構造に着眼した類似性発見手法</li>
           <li>複数の大規模で複雑に成長をしているグラフの類似構造の把握手法</li>
         </ul>
       </li>
-      <li>登録日: 2022/04/04 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200743/ACCBCAF2B2D24540AB9DBA75721BC20C42B55A0BF3803D8BE32B414E9F68D480/11/ja" rel="nofollow">特許7054645号</a>
+      <li>登録日: 2022/04/04 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-200743/ACCBCAF2B2D24540AB9DBA75721BC20C42B55A0BF3803D8BE32B414E9F68D480/11/ja" rel="nofollow">特許第7054645号</a>
         <ul dir="auto">
           <li>DNNの可塑性に着目したモデルの精度向上の手法</li>
           <li>DNNの塑性変形による過学習抑制手法</li>
@@ -134,14 +145,9 @@
 </details>
 
 <details>
-  <summary>特許出願済み (主担当/2件) </summary>
+  <summary>特許出願済み (主担当/1件) </summary>
   <div dir="auto">
     <ul dir="auto">
-      <li>出願日: 2019/03/19 <!-- <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-154583/3490AAA1A23D324BD2306BCDC179DB44845CB829C9F6EFFD0C0A804029C4458D/11/ja" rel="nofollow"> -->特開2020-154583<!-- </a> -->
-        <ul dir="auto">
-          <li>クリックログを用いた二部グラフ構築によるエンティティのクラス推定について</li>
-        </ul>
-      </li>
       <li>出願日: 2017/09/14  <!-- <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-053469/21D2C5B7CBA1DFFA0F77A8309DBA8B7A4F2687E75AFFAF2797C6BD63B287E151/11/ja" rel="nofollow"> --> 特開2019-053469<!-- </a> -->
         <ul dir="auto">
           <li>ナレッジベース生成における、MatcherとリテラルのURI化部分について</li>
@@ -152,14 +158,9 @@
 </details>
 
 <details>
-  <summary>特許出願済み (副担当/2件) </summary>
+  <summary>特許出願済み (副担当/1件) </summary>
   <div dir="auto">
     <ul dir="auto">
-      <li>出願日: 2019/07/19 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-018596/4B3FDCF371F465459C04441E25D753BBE69E0DB79C1C5E036B6D13C51406EB9C/11/ja" rel="nofollow">特開2021-18596</a>
-        <ul dir="auto">
-          <li>導来同値により思考のやわらかさを実現する手法</li>
-        </ul>
-      </li>
       <li>出願日: 2019/02/25 16/284383 (US01)
         <ul dir="auto">
           <li>動的ネットワークの成長を考慮したノード評価手法</li>
