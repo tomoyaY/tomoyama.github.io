@@ -12,14 +12,14 @@
 - 2014 - 2016: 京都大学大学院情報学研究科修了
 - 2010 - 2014: 京都大学工学部情報学科卒業
 
-## 主要な公開ドキュメント
+## 公開ドキュメント
 - 2023.12: [ZOZOTOWN検索における 研究開発の取り組みについて](https://speakerdeck.com/tomoyayama/2023-ccse-zozotownjian-suo-niokeru-yan-jiu-kai-fa-noqu-rizu-minituite) @ [CCSE2023](https://ccse.jp/2023/)
 - 2023.01: [ZOZOTOWN検索の精度改善の取り組み紹介](https://techblog.zozo.com/entry/search-relevance-improvement) @ ZOZO テックブログ
 - 2021.06: [ZOZO研究所が実施する「検索/推薦技術に関する論文読み会」](https://techblog.zozo.com/entry/search-recommend-articles-study-session) @ ZOZO Tech テックブログ
 - 2021.02: [ユーザーログを活用したZOZOTOWNの検索サジェスト改善](https://techblog.zozo.com/entry/zozotown-search-suggestion) @ ZOZO Tech テックブログ
 - 2019.12: [メディアサービスの基盤としてのナレッジベースの活用と生成方法について](https://www.docswell.com/s/ydnjp/K1M925-2019-12-12-153636#p1) @ [YJTC2019](https://techblog.yahoo.co.jp/entry/20191213789272/)
 
-## 主要な執筆論文
+## 執筆論文
 - 2019.08: [A Scalable and Plug-in Based System to Construct A Production-Level Knowledge Base](https://www.semanticscholar.org/paper/A-Scalable-and-Plug-in-Based-System-to-Construct-A-Yamazaki-Nishi/1a2eb73aa65ffd5fe5ed1dc9eb5419f7b1353da8) @ KDD Workshop DI2KG 2019
 - 2016.04: [Weighted Micro-Clustering: Application to Community Detection in Large-Scale Co-Purchasing Networks with User Attributes](https://dl.acm.org/doi/10.1145/2872518.2889406) @ WWW short 2016
 - 2015.10: [Tree PCA for Extracting Dominant Substructures from Labeled Rooted Trees](https://link.springer.com/chapter/10.1007/978-3-319-24282-8_27) @ DS 2015
