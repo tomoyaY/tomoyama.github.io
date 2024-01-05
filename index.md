@@ -40,7 +40,7 @@
           <li>label spreading法によるクリックログを用いた二部グラフ構築によるエンティティのクラス推定について</li>
         </ul>
       </li>
-      <li>登録日: 2023/07/11 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-047931/F0BD0DEEAB78D539024A1D7BE5A4B4ABF8615770F979C06558C06EC9B1497A92/11/ja" rel="nofollow"> 特許第7303855号 </a>
+      <li>登録日: 2023/05/30 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2023-047931/F0BD0DEEAB78D539024A1D7BE5A4B4ABF8615770F979C06558C06EC9B1497A92/11/ja" rel="nofollow"> 特許第7303855号 </a>
         <ul dir="auto">
           <li>ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、個人情報流出を防ぎつつ、促進する機能について</li>
         </ul>
@@ -55,7 +55,7 @@
           <li>グラフアルゴリズムを用いたエンティティマッチングについて</li>
         </ul>
       </li>
-      <li>登録日: 2022/02/18 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7027606/5D7FBF473697F9E48BC88043B84F1865554ECB33FF1C91E2B3439A9F4398E1EA/15/ja">特許第7027606号</a></li>
+      <li>登録日: 2022/02/08 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7027606/5D7FBF473697F9E48BC88043B84F1865554ECB33FF1C91E2B3439A9F4398E1EA/15/ja">特許第7027606号</a></li>
         <ul>
           <li>ECサイトの表示順の精度を、他サイトの情報をデータ量の効率化を図るとともに、促進する機能について</li>
         </ul>
