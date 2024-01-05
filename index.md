@@ -23,7 +23,7 @@
 - 2019.08: [A Scalable and Plug-in Based System to Construct A Production-Level Knowledge Base](https://www.semanticscholar.org/paper/A-Scalable-and-Plug-in-Based-System-to-Construct-A-Yamazaki-Nishi/1a2eb73aa65ffd5fe5ed1dc9eb5419f7b1353da8) @ KDD Workshop DI2KG 2019
 - 2016.04: [Weighted Micro-Clustering: Application to Community Detection in Large-Scale Co-Purchasing Networks with User Attributes](https://dl.acm.org/doi/10.1145/2872518.2889406) @ WWW short 2016
 - 2015.10: [Tree PCA for Extracting Dominant Substructures from Labeled Rooted Trees](https://link.springer.com/chapter/10.1007/978-3-319-24282-8_27) @ DS 2015
-- その他の国内の学会等の発表論文: [CiNii](https://ci.nii.ac.jp/search?q=%E5%B1%B1%E5%B4%8E%E6%9C%8B%E5%93%89&range=0&count=&sortorder=&type=0)
+- その他の国内の学会等の発表論文: [CiNii](https://cir.nii.ac.jp/all?q=%E5%B1%B1%E5%B4%8E%E6%9C%8B%E5%93%89)
 
 ## その他の活動
 - 2021.07: [論文紹介: [SIGIR 2020] Query Reformulation in E-Commerce Search](https://speakerdeck.com/tomoyayama/sigir-2020-query-reformulation-in-e-commerce-search) @ [情報検索/推薦 各社合同 論文読み祭 #1](https://m3-engineer.connpass.com/event/217338/)
