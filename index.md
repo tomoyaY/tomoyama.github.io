@@ -13,6 +13,7 @@
 - 2010 - 2014: 京都大学工学部情報学科卒業
 
 ## 公開ドキュメント
+- 2024.03: [情報検索の評価指標の弱点と選択バイアスを考慮した改善アプローチ](https://techblog.zozo.com/entry/biased-search-evaluation-improvement) @ ZOZO テックブログ
 - 2023.12: [ZOZOTOWN検索における 研究開発の取り組みについて](https://speakerdeck.com/tomoyayama/2023-ccse-zozotownjian-suo-niokeru-yan-jiu-kai-fa-noqu-rizu-minituite) @ [CCSE2023](https://ccse.jp/2023/)
 - 2023.01: [ZOZOTOWN検索の精度改善の取り組み紹介](https://techblog.zozo.com/entry/search-relevance-improvement) @ ZOZO テックブログ
 - 2021.06: [ZOZO研究所が実施する「検索/推薦技術に関する論文読み会」](https://techblog.zozo.com/entry/search-recommend-articles-study-session) @ ZOZO Tech テックブログ
