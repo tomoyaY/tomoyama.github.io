@@ -5,7 +5,7 @@
 - mail: tom317oya[a.t.]gmail.com
 
 ## 略歴
-- 2018 - : [株式会社ゼプトス](https://www.zeptos.jp/)のCEO
+- 2018 - : [株式会社ゼプトス](https://www.zeptos.jp/)の代表取締役社長
 - 2024 - : [株式会社ZOZO](https://corp.zozo.com/)のデータサイエンス部 ディレクター
 - 2022 - 2024: [株式会社ZOZO](https://corp.zozo.com/)の検索基盤部 検索研究ブロック長
 - 2020 - 2022: [ZOZO研究所](https://research.zozo.com/)の検索チーム リーダー
